@@ -21,3 +21,4 @@ I know some techs like Html, css, javascript, python django and bootstrap 👨�
 Besides coding. I love to make music and play the drums. You can hear my band here:
 * [Spotify](https://open.spotify.com/artist/6dJO5eZzDgy0Uyq1DFgWOz?si=tpsa18-vSwGkMHNWob3HmA)🎶
 * [YouTube](https://www.youtube.com/watch?v=7c_nL9vahQM)📽
+* [Instagram](https://www.instagram.com/altibajosmusica/)🐧
