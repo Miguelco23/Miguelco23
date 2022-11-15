@@ -1,9 +1,10 @@
 # Miguel Angel Cabrera
 
-👋 *Hi there*, I’m Miguel
+*Hi there*, I’m Miguel 👋 
 * Im a computer science student, in my last year of career. 👨🏼‍🎓 
 
-* I’m interested in frontend and mobile development and i know some techs like Html, css, javascript, python django and bootstrap 👨🏼‍💻
+* I’m interested in frontend and mobile development.<br>
+I know some techs like Html, css, javascript, python django and bootstrap 👨🏼‍💻
 
 * I’m currently learning React.js 📓
 
