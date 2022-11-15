@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Miguel Cabrera
+- Im a comuter science student
+- 👀 I’m interested in frontend and mobile development
+- I Know some techs like Html, css, javascript, python django and bootstrap
+- 🌱 I’m currently learning React.js
