@@ -4,9 +4,7 @@
 * Im a computer science student, in my last year of career. 👨🏼‍🎓
 
 * I’m interested in frontend and mobile development.<br>
-I know some techs like Html, css, javascript, python django and bootstrap 👨🏼‍💻
-
-* I’m currently learning React.js 📓
+I know some web techs like React.js, Html, css, Bootstrap and python django 👨🏼‍💻
 
 ## Contact 🤳🏼
 
