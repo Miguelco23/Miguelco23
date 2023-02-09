@@ -1,12 +1,25 @@
 # Miguel Angel Cabrera
 
-**Hi there**, I’m Miguel 👋 
-* Im a computer science student, in my last year of career. 👨🏼‍🎓
+**Hi there** 👋, I’m Miguel and  I'm a web developer 
+Im a computer science student, in my last year of career 👨‍🎓
 
-* I’m interested in frontend and mobile development.<br>
-I know some web techs like React.js, Html, css, Bootstrap and python django 👨🏼‍💻
 
-## Contact 🤳🏼
+## Tech stack 👨‍💻
+* React.js
+* Django.py
+* Git
+* Bootstrap
+* HTML and CSS responsive design
+
+
+## Certifications 🎓
+
+* [Front-End development libraries](https://www.freecodecamp.org/certification/Miguelco23/front-end-development-libraries)
+* [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Miguelco23/javascript-algorithms-and-data-structures)
+* [Responsive Web Design](https://www.freecodecamp.org/certification/Miguelco23/responsive-web-design)
+
+
+## Contact 
 
 * [LinkedIn](https://www.linkedin.com/in/miguel-cabrera-0547a922b/)👷🏼‍♂️
 * [Instagram](https://www.instagram.com/miguelco314/)📷
