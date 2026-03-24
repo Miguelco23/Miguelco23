@@ -1,55 +1,99 @@
-<h1 align="center">Hi 👋, I'm Miguel Cabrera</h1>
-<h3 align="center">Software Engineer | Backend & Full-Stack Developer | Colombia 🇨🇴</h3>
+# 👋 Hi, I'm Miguel Cabrera
+
+**Backend & Full-Stack Software Engineer**  
+Medellín, Colombia 🇨🇴  
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-I’m a **bilingual Software Engineer** passionate about building scalable, high-impact software solutions.  
-Currently, I work at **Mercado Libre**, developing **high-traffic logistics APIs** in **Go**, collaborating with cross-functional teams to ensure performance and reliability at scale.  
+Software Engineer with experience building **scalable backend systems and cloud-native applications** using **Java, Go, and JavaScript**.
 
-I have hands-on experience designing and maintaining **backend systems, RESTful APIs, and full-stack applications** using **Go, Java (Spring Boot), JavaScript (Node.js, jQuery)**, and **SQL**.  
-My approach combines **technical precision, product-oriented thinking**, and a deep interest in how technology can improve real-world processes.  
+I specialize in designing **high-performance REST APIs**, working in **distributed systems**, and contributing to **reliable production environments** with real users at scale.
 
-I’m also building a foundation toward **project management and product leadership**, driven by teamwork, communication, and continuous learning.  
+Currently working in a **high-traffic environment**, solving real-world problems related to performance, scalability, and system reliability.
 
----
-
-## 🧠 Tech Stack  
-
-### 🏗 Backend & APIs  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
-</p>
-
-### 💻 Frontend & Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-</p>
+I also leverage **AI-driven development** to accelerate delivery, improve code quality, and optimize workflows.
 
 ---
 
-## 🎓 Certifications  
+## 💼 Experience
 
-- [JavaScript Algorithms and Data Structures — freeCodeCamp](https://www.freecodecamp.org/certification/Miguelco23/javascript-algorithms-and-data-structures)  
-- [Front-End Development Libraries — freeCodeCamp](https://www.freecodecamp.org/certification/Miguelco23/front-end-development-libraries)  
-- [Go Backend Bootcamp — Mercado Libre (2025)]()  
+### Software Engineer  
+**Current Role**
+
+- Build and maintain **high-performance APIs in Go**
+- Work in **cloud-based, high-concurrency environments**
+- Contribute to **scalable backend systems**
+- Participate in **incident analysis and production support**
+- Apply **clean architecture and OOP principles**
+
+### Previous Experience
+
+- Developed backend services using **Java (Spring Boot)**
+- Designed and implemented **RESTful APIs**
+- Improved **SQL performance and data models**
+- Implemented **testing strategies (unit & integration)**
+- Worked in **Scrum teams**, improving team productivity
 
 ---
 
-## 📫 Connect with Me  
+## 🧠 Technical Skills
 
-- [**LinkedIn**](https://www.linkedin.com/in/miguelco23/) 👨‍💼  
-- [**Instagram**](https://www.instagram.com/miguelco314/) 🥁  
+### Languages
+- Java
+- Golang
+- JavaScript
+
+### Backend & Architecture
+- Spring Boot
+- REST API Design
+- Microservices
+- Object-Oriented Programming
+- Clean Architecture
+
+### Cloud & DevOps
+- AWS
+- CI/CD Pipelines
+- Git
+
+### AI in Development
+- Prompt Engineering
+- AI-assisted debugging
+- Automated documentation & testing
 
 ---
+
+## 🛠 What I Care About
+
+- Writing **clean, maintainable, and scalable code**
+- Building systems that **perform under load**
+- Improving **developer productivity through AI**
+- Solving **real business problems with technology**
+
+---
+
+## 📂 Featured Projects
+
+👉 *Here you can showcase your best projects*
+
+- 🔹 What problem it solves  
+- 🔹 Tech stack used  
+- 🔹 Your specific contribution  
+- 🔹 Link to repo / demo  
+
+---
+
+## 📫 Contact
+
+- Email: miguelco23vzv@gmail.com  
+- LinkedIn: *(add your link here)*  
+
+---
+
+## ⚡ Final Note
+
+I’m especially interested in roles where I can:
+- Work on **high-scale systems**
+- Solve **complex backend problems**
+- Continue growing in **distributed systems & cloud architecture**
